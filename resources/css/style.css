@@ -1,0 +1,23 @@
+html {
+    font-family: "Verdana", sans-serif;
+    font-size: 16px;
+    background-color: black;
+  }
+
+  header {
+      position: relative;
+  }
+
+  .main-title {
+    font-family: Verdana;
+    font-weight: Normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+  }
+
+  #download {
+      color: aquamarine;
+      font-size: 16px;
+      text-align: center;
+  }
